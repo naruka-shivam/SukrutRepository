@@ -1,2 +1,2 @@
 # SukrutRepository
-<h1>hey shivam</h1>
+<h6>hey shivam</h6>
